@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pwd
 ls
 cd
@@ -8,3 +9,24 @@ cp
 mv
 rm
 man
+=======
+1 Introduction
+
+2 pwd
+
+3 cd
+
+4 ls
+
+5 mkdir
+
+6 echo
+
+7 cat
+
+8 cp
+
+9 mv
+
+10 rm
+>>>>>>> e971277729343ed836141c7b58bca749e616d232
